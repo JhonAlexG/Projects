@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: ca36867b778b13146b0e9b2c194fc870
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infantry Soldier_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2643
+        width: 308
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5d8289bcd16fb4a8da375982ec3819
+      internalID: 1855291411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2643
+        width: 312
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4d2496a8cb844b952187d776af3eb
+      internalID: -1756074699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_2
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2643
+        width: 306
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a34ecf2d79e7d4995bd4c5d1d8f561
+      internalID: 2043221999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_3
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2643
+        width: 302
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c481b7f6d25948818902de38f44d1
+      internalID: 1632269553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2643
+        width: 301
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84177744321bff44284547d4710637f4
+      internalID: -290609090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_5
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 2661
+        width: 309
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92560350ae16d449bec5db408310d9
+      internalID: -1309150847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_6
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 2663
+        width: 304
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d885ab299a0c1e84d84a160bc99f3b7c
+      internalID: -610096843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2082
+        width: 294
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa3f15148eb31a488590fd7081b6c88
+      internalID: -1435139009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2082
+        width: 309
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc690da80ae7dd649b46e31ae302bbc1
+      internalID: 1639412972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_9
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2082
+        width: 320
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3818ae4b06d537d469e7eefdddeffd8e
+      internalID: 1652689268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_10
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2080
+        width: 307
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91f7ef3b8d1a245a84b4f99076a2ac
+      internalID: 447489197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_11
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 2074
+        width: 317
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b938e1c51a2353458943ae099ac6e13
+      internalID: -1595520374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_12
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 2077
+        width: 322
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97018d88be7f09f43bce1990105dc404
+      internalID: -1549359616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_13
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 2089
+        width: 323
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd0a994742ac944faf133ae93beaba2
+      internalID: -1270708958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1455
+        width: 301
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d6058857fe6040aa0da9da3dc8e0c
+      internalID: 436830465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1455
+        width: 261
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b09c4d755d8f4d8359dd560b44bab
+      internalID: 459525745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1455
+        width: 282
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabc665a28d8d14994fdaafc1ffaaa0
+      internalID: 1717444775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1453
+        width: 267
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ddceb1bcaa49c4393cfd2ddac62a93
+      internalID: 1980294595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_18
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1453
+        width: 329
+        height: 452
+      alignment: 9
+      pivot: {x: 0.113480866, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c811cd1e0b2421546ae6cfb104bd0bf6
+      internalID: 1608217362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_19
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1453
+        width: 328
+        height: 450
+      alignment: 9
+      pivot: {x: 0.099994935, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddd3658bdb88844ba130788a55339ba
+      internalID: -792868165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 852
+        width: 298
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b320a56df3c40184c8f921d4dce63962
+      internalID: 813975953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 852
+        width: 282
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a259372469f34b960b24a61546dfe
+      internalID: -1976389349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_22
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 852
+        width: 278
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e60ab0d45c92784a93ebf3d699b5328
+      internalID: -852832667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_23
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 852
+        width: 252
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cae7adc6c8f294eb7cc16444b2b7fc
+      internalID: 390106032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_24
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 844
+        width: 306
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682b1ffa17311d4b99217e289c18f28
+      internalID: 962234667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_25
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 846
+        width: 323
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc557326f7732dc43b1f842e5a1c10a1
+      internalID: -371314366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_26
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 844
+        width: 317
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b662c01a69f67c4b8c13c997ce70cd6
+      internalID: -138836194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 214
+        width: 304
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17b5d261e5aee4690c499b1b48ecc1
+      internalID: 277145166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_28
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 216
+        width: 279
+        height: 415
+      alignment: 9
+      pivot: {x: 0.4432677, y: 0.4999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ef98fe9f621b48bbc614a2f00ecdc
+      internalID: -1861757316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_29
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 214
+        width: 314
+        height: 360
+      alignment: 9
+      pivot: {x: 0.46219358, y: 0.6428939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02fc47e03bae6548ad3004f5db2e3ee
+      internalID: 1545895931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_30
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 214
+        width: 410
+        height: 312
+      alignment: 9
+      pivot: {x: 0.33592618, y: 0.67756075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc673a665bc63ae4aabc4daefb0b22ff
+      internalID: -723804921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infantry Soldier_31
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 214
+        width: 502
+        height: 158
+      alignment: 9
+      pivot: {x: 0.3423479, y: 1.6533452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18ac2ee724795468a1fc5207072a46
+      internalID: 232001718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Infantry Soldier_0: 1855291411
+      Infantry Soldier_1: -1756074699
+      Infantry Soldier_10: 447489197
+      Infantry Soldier_11: -1595520374
+      Infantry Soldier_12: -1549359616
+      Infantry Soldier_13: -1270708958
+      Infantry Soldier_14: 436830465
+      Infantry Soldier_15: 459525745
+      Infantry Soldier_16: 1717444775
+      Infantry Soldier_17: 1980294595
+      Infantry Soldier_18: 1608217362
+      Infantry Soldier_19: -792868165
+      Infantry Soldier_2: 2043221999
+      Infantry Soldier_20: 813975953
+      Infantry Soldier_21: -1976389349
+      Infantry Soldier_22: -852832667
+      Infantry Soldier_23: 390106032
+      Infantry Soldier_24: 962234667
+      Infantry Soldier_25: -371314366
+      Infantry Soldier_26: -138836194
+      Infantry Soldier_27: 277145166
+      Infantry Soldier_28: -1861757316
+      Infantry Soldier_29: 1545895931
+      Infantry Soldier_3: 1632269553
+      Infantry Soldier_30: -723804921
+      Infantry Soldier_31: 232001718
+      Infantry Soldier_4: -290609090
+      Infantry Soldier_5: -1309150847
+      Infantry Soldier_6: -610096843
+      Infantry Soldier_7: -1435139009
+      Infantry Soldier_8: 1639412972
+      Infantry Soldier_9: 1652689268
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
